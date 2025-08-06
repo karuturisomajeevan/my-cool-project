@@ -10,7 +10,7 @@ int main() {
 
     std::cout << "Enter your name: ";
     std::getline(std::cin, name);
-
+    std::cout << "edited by harsha"<< std::endl;
     greetUser(name);
 
     return 0;
